@@ -1,0 +1,9 @@
+<map id="draw_mole" name="draw_mole">
+<area shape="rect" id="node1" title="Function that draws the mole at it&#39;s current position." alt="" coords="856,46,940,73"/>
+<area shape="rect" id="node2" href="$mole_8h.html#acbcdfcdb4d75dc87c9cad1e21563251b" title="Function that draws some moles at it&#39;s current positions." alt="" coords="697,46,808,73"/>
+<area shape="rect" id="node3" href="$game_8h.html#a83b81c62e20e8612d78e1544833ed165" title="Multi_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="497,5,645,47"/>
+<area shape="rect" id="node7" href="$game_8h.html#ac2cdcc365f4d1f28296731ffbe687c07" title="Single_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="493,71,649,112"/>
+<area shape="rect" id="node4" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,46,445,73"/>
+<area shape="rect" id="node5" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,46,283,73"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,46,115,73"/>
+</map>

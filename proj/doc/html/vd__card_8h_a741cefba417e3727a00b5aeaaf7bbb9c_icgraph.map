@@ -1,0 +1,36 @@
+<map id="vg_paint_pixel" name="vg_paint_pixel">
+<area shape="rect" id="node1" title=" " alt="" coords="1341,461,1444,488"/>
+<area shape="rect" id="node2" href="$vd__card_8h.html#a8aaf0b5d7904f5e618a5c395bd92b50c" title=" " alt="" coords="1162,183,1278,209"/>
+<area shape="rect" id="node4" href="$vd__card_8h.html#a6bdae1bbe2550249fad35c5fb5c6a850" title=" " alt="" coords="1147,936,1293,963"/>
+<area shape="rect" id="node22" href="$vd__card_8h.html#a960b8a6eaa33056b1caf46d2f3be5a78" title=" " alt="" coords="1170,461,1270,488"/>
+<area shape="rect" id="node3" href="$vd__card_8h.html#a3dd0058f1f32cbd621447b9b99a13285" title=" " alt="" coords="961,5,1055,32"/>
+<area shape="rect" id="node5" href="$menu_8h.html#a0b355459b3a4a9f5c3ca6a3990c327c7" title="Function that draws the game&#39;s date." alt="" coords="967,1019,1049,1045"/>
+<area shape="rect" id="node12" href="$game_8h.html#ad888a6fd05ec9bdea749a7df6194f692" title="Draw a number at a given position through a given font." alt="" coords="741,360,839,387"/>
+<area shape="rect" id="node16" href="$_player_8h.html#a68726908922743aa8421780dc8e98c99" title=": draws Player Nmae" alt="" coords="943,1120,1073,1147"/>
+<area shape="rect" id="node19" href="$score_8h.html#af37f5936bb762a295329e061294dcd9d" title="draws players&#39;s score" alt="" coords="943,1196,1073,1223"/>
+<area shape="rect" id="node21" href="$menu_8h.html#a83f90a5e43a721ad85133020e32bcdd5" title="Function that draws the current&#39;s time." alt="" coords="967,853,1049,880"/>
+<area shape="rect" id="node6" href="$score_8h.html#a9d29cb501a22694868f47f60f0e22c68" title="draws players&#39;s dates" alt="" coords="725,1019,855,1045"/>
+<area shape="rect" id="node11" href="$game_8h.html#aa225abc34fc0bda6af3cd3743d99ff14" title="Main Menu&#39;s Interrupt Handler for any of the devices." alt="" coords="507,606,649,647"/>
+<area shape="rect" id="node7" href="$game_8h.html#a259fc2952ac22cfff832e036a0f8f78f" title="Leaderboard&#39;s Interrupt Handler for any of the devices." alt="" coords="505,986,651,1027"/>
+<area shape="rect" id="node8" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,356,445,383"/>
+<area shape="rect" id="node9" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,356,283,383"/>
+<area shape="rect" id="node10" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,356,115,383"/>
+<area shape="rect" id="node13" href="$game_8h.html#a83a808db01b11ae79c204b64455e1ca9" title="Game Over&#39;s Interrupt Handler for any of the devices." alt="" coords="506,414,650,455"/>
+<area shape="rect" id="node14" href="$game_8h.html#a83b81c62e20e8612d78e1544833ed165" title="Multi_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="504,283,652,325"/>
+<area shape="rect" id="node15" href="$game_8h.html#ac2cdcc365f4d1f28296731ffbe687c07" title="Single_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="500,349,656,390"/>
+<area shape="rect" id="node17" href="$score_8h.html#ae3c2d15b4c30d163c227bd534e0a40f2" title="draws leaderboard&#39;s player names" alt="" coords="721,1171,859,1197"/>
+<area shape="rect" id="node18" href="$game_8h.html#a513545e1100bf1e22c03177624a58cc8" title="Player_Setting&#39;s Interrupt Handler for any of the devices." alt="" coords="494,809,662,850"/>
+<area shape="rect" id="node20" href="$score_8h.html#a112da7f6583d054ea0b7ce49a8e171fb" title="draws players&#39;s scores" alt="" coords="721,1221,859,1248"/>
+<area shape="rect" id="node23" href="$_player_8c.html#ab7bf22d031fad1e7ccccf4746e9ff7bd" title=" " alt="" coords="959,676,1057,703"/>
+<area shape="rect" id="node24" href="$menu_8h.html#a8cffe5189a594e49e7510d739e186fa0" title=" " alt="" coords="962,512,1054,539"/>
+<area shape="rect" id="node26" href="$menu_8h.html#a4acb89b058c3a72154e1b2650107a77f" title=" " alt="" coords="744,512,836,539"/>
+<area shape="rect" id="node27" href="$score_8h.html#a37574d66cf407cd3121ba1cf4f039b19" title="draws leaderboard&#39;s table" alt="" coords="711,1120,869,1147"/>
+<area shape="rect" id="node28" href="$menu_8h.html#af5275f652e65ee8f6e76a3c9f5d27ad7" title="Function that draws the game&#39;s logo." alt="" coords="750,563,830,589"/>
+<area shape="rect" id="node29" href="$mole_8h.html#af0a0ff3356decf910ea4bb33788c5568" title="Function that draws the mole at it&#39;s current position." alt="" coords="966,259,1050,285"/>
+<area shape="rect" id="node31" href="$_player_8h.html#a6f315404e5a2795f04475b785d581c58" title=": draws Player Settings name lennght waring" alt="" coords="917,752,1099,779"/>
+<area shape="rect" id="node32" href="$game_8h.html#a2d118fde6ecd8911cf2ac5668ad6cbad" title="Exit&#39;s Interrupt Handler for any of the devices." alt="" coords="716,157,864,184"/>
+<area shape="rect" id="node33" href="$game_8h.html#ad61ca3b8cf8e0556a4bf1273809aea6f" title="Instruction&#39;s Interrupt Handler for any of the devices." alt="" coords="507,54,649,95"/>
+<area shape="rect" id="node34" href="$game_8h.html#a5e320e123b36750c50ac9bcc0a60bb9e" title=" " alt="" coords="493,129,663,156"/>
+<area shape="rect" id="node25" href="$menu_8h.html#a46210c7c7feecb97174d98bcd78cd7e4" title=" " alt="" coords="741,765,839,792"/>
+<area shape="rect" id="node30" href="$mole_8h.html#acbcdfcdb4d75dc87c9cad1e21563251b" title="Function that draws some moles at it&#39;s current positions." alt="" coords="735,259,845,285"/>
+</map>

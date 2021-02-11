@@ -1,0 +1,17 @@
+<map id="WhacAMole" name="WhacAMole">
+<area shape="rect" id="node1" title=" " alt="" coords="386,273,479,300"/>
+<area shape="rect" id="node2" href="$struct_game_over.html" title="Struct relative to GameOver." alt="" coords="77,184,159,211"/>
+<area shape="rect" id="node3" href="$struct_cursor.html" title=" " alt="" coords="5,95,65,121"/>
+<area shape="rect" id="node4" href="$struct_button.html" title=" " alt="" coords="219,95,279,121"/>
+<area shape="rect" id="node8" href="$struct_leaderboard.html" title=" " alt="" coords="263,184,357,211"/>
+<area shape="rect" id="node13" href="$struct_menu.html" title=" " alt="" coords="184,184,239,211"/>
+<area shape="rect" id="node14" href="$struct_player___settings.html" title=" " alt="" coords="381,184,495,211"/>
+<area shape="rect" id="node5" href="$struct_instructions.html" title=" " alt="" coords="520,184,609,211"/>
+<area shape="rect" id="node6" href="$struct_mole.html" title=" " alt="" coords="634,184,685,211"/>
+<area shape="rect" id="node7" href="$struct_exit.html" title=" " alt="" coords="709,184,754,211"/>
+<area shape="rect" id="node9" href="$struct_score___record.html" title=" " alt="" coords="394,95,498,121"/>
+<area shape="rect" id="node10" href="$struct_time.html" title=" " alt="" coords="383,5,434,32"/>
+<area shape="rect" id="node11" href="$struct_date.html" title=" " alt="" coords="459,5,508,32"/>
+<area shape="rect" id="node12" href="$struct_player.html" title=" " alt="" coords="778,184,837,211"/>
+<area shape="rect" id="node15" href="$struct_avatar.html" title=" " alt="" coords="534,95,593,121"/>
+</map>

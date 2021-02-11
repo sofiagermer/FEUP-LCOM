@@ -1,0 +1,9 @@
+<map id="draw_buttons" name="draw_buttons">
+<area shape="rect" id="node1" title=" " alt="" coords="709,78,808,105"/>
+<area shape="rect" id="node2" href="$game_8h.html#a259fc2952ac22cfff832e036a0f8f78f" title="Leaderboard&#39;s Interrupt Handler for any of the devices." alt="" coords="504,5,651,47"/>
+<area shape="rect" id="node6" href="$game_8h.html#aa225abc34fc0bda6af3cd3743d99ff14" title="Main Menu&#39;s Interrupt Handler for any of the devices." alt="" coords="506,71,649,112"/>
+<area shape="rect" id="node7" href="$game_8h.html#a513545e1100bf1e22c03177624a58cc8" title="Player_Setting&#39;s Interrupt Handler for any of the devices." alt="" coords="493,136,661,177"/>
+<area shape="rect" id="node3" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,78,445,105"/>
+<area shape="rect" id="node4" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,78,283,105"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,78,115,105"/>
+</map>

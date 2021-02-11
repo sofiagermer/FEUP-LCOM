@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['n_5fbreak_378',['N_BREAK',['../group__i8042.html#ga52dbaa5d914245fef903ccfdfd571a55',1,'i8042.h']]],
+  ['nack_379',['NACK',['../group__i8042.html#ga958518a45b12053ae33606ee7cb68a55',1,'i8042.h']]],
+  ['name_380',['name',['../struct_player.html#a5ac083a645d964373f022d03df4849c8',1,'Player']]],
+  ['name_5fbox_5fx_381',['NAME_BOX_X',['../xpm__coordinates_8h.html#a7ed8d9db0d2a834c04ea297a7c14bdd6',1,'xpm_coordinates.h']]],
+  ['name_5fbox_5fy_382',['NAME_BOX_Y',['../xpm__coordinates_8h.html#a36f63efbd82e5a8de3a940ea3a1f03f3',1,'xpm_coordinates.h']]],
+  ['name_5flength_5fwarning_383',['name_length_warning',['../struct_player___settings.html#ac583c6394290b364a241d843995222a2',1,'Player_Settings']]],
+  ['name_5fmaximum_5flength_384',['name_maximum_length',['../struct_player___settings.html#a6af72b62a1de802ee6a722a3119a30fb',1,'Player_Settings']]],
+  ['new_5fscore_385',['new_score',['../struct_game_over.html#a66fbcdc0feb670b28a5a76e50e59464c',1,'GameOver']]],
+  ['nm_5flength_5fwr_5fx_386',['NM_LENGTH_WR_X',['../xpm__coordinates_8h.html#a6aca6c136ab7eca03a0498cc15f89af7',1,'xpm_coordinates.h']]],
+  ['nm_5flength_5fwr_5fy_387',['NM_LENGTH_WR_Y',['../xpm__coordinates_8h.html#a4ca57c72014c5ab0a5019771f52b6b49',1,'xpm_coordinates.h']]],
+  ['nm_5fplace_5fx_388',['NM_PLACE_X',['../xpm__coordinates_8h.html#af6e2ed42996e7d2c6393e4a7242d6248',1,'xpm_coordinates.h']]],
+  ['nm_5fplace_5fy_389',['NM_PLACE_Y',['../xpm__coordinates_8h.html#a821cc421e2d1644fd29dba783a84dd23',1,'xpm_coordinates.h']]],
+  ['no_5fbits_5fproj_390',['NO_BITS_PROJ',['../uart__const_8h.html#acbf32f067fa6d6d630c7f3eb67df223d',1,'uart_const.h']]],
+  ['no_5fstop_5fbits_391',['NO_STOP_BITS',['../uart__const_8h.html#a5a5f9ded864661d3bcbd87dc75b6ff73',1,'uart_const.h']]],
+  ['no_5fstop_5fbits_5f1_392',['NO_STOP_BITS_1',['../uart__const_8h.html#af9e0540b48710fb8b204de28b2ea190c',1,'uart_const.h']]],
+  ['no_5fstop_5fbits_5f2_393',['NO_STOP_BITS_2',['../uart__const_8h.html#a788b62a39fbd00e1a870359d21f4610e',1,'uart_const.h']]],
+  ['no_5fstop_5fbits_5fproj_394',['NO_STOP_BITS_PROJ',['../uart__const_8h.html#a95626ee3bcc102ef7c9ff2e0469edab4',1,'uart_const.h']]],
+  ['normal_395',['NORMAL',['../button_8h.html#a01cda3effbb71c7c203e4f9716e8844da50d1448013c6f17125caee18aa418af7',1,'NORMAL():&#160;button.h'],['../menu_8h.html#a01cda3effbb71c7c203e4f9716e8844da50d1448013c6f17125caee18aa418af7',1,'NORMAL():&#160;menu.h']]],
+  ['not_5fselected_396',['NOT_SELECTED',['../_player_8h.html#a0bbab92f5605e16a4162b6c5ccc2c29ba616ede6b6f3a1d38a724d1168ddf1adf',1,'Player.h']]],
+  ['num_5fbuttons_397',['num_buttons',['../struct_game_over.html#a5102affcad09978206de39f861f50ca6',1,'GameOver::num_buttons()'],['../struct_menu.html#a5102affcad09978206de39f861f50ca6',1,'Menu::num_buttons()'],['../struct_player___settings.html#a5102affcad09978206de39f861f50ca6',1,'Player_Settings::num_buttons()'],['../struct_leaderboard.html#a5102affcad09978206de39f861f50ca6',1,'Leaderboard::num_buttons()']]],
+  ['num_5fmoles_398',['num_moles',['../struct_whac_a_mole.html#a6ed2f8c4b4d4279128ff67daac9cfa29',1,'WhacAMole']]],
+  ['num_5fscore_5frecords_399',['num_score_records',['../struct_leaderboard.html#a96b0a9fd57d0e3dd35f1f3808014f7f8',1,'Leaderboard']]],
+  ['numbers_400',['numbers',['../struct_game_over.html#a5dcd9389293fdc1512de18793655aca5',1,'GameOver::numbers()'],['../struct_leaderboard.html#a5dcd9389293fdc1512de18793655aca5',1,'Leaderboard::numbers()']]],
+  ['numbers_5ffont_401',['numbers_font',['../struct_whac_a_mole.html#a276f433b43b35dfe1a323351d5f5f8c4',1,'WhacAMole']]]
+];

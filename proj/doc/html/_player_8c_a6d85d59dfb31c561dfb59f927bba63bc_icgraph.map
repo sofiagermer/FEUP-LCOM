@@ -1,0 +1,8 @@
+<map id="load_player_settings" name="load_player_settings">
+<area shape="rect" id="node1" title="loads Player Settings : loads it&#39;s xpm and sets it&#39;s variavles" alt="" coords="685,42,827,69"/>
+<area shape="rect" id="node2" href="$game_8h.html#a83a808db01b11ae79c204b64455e1ca9" title="Game Over&#39;s Interrupt Handler for any of the devices." alt="" coords="493,5,637,47"/>
+<area shape="rect" id="node6" href="$game_8h.html#a5c905e2d449eb8d5f597ff9912701b53" title="loads Game : Loads all Game&#39;s sprites, Creates Mole, Menu, Player_Settings, Player,..." alt="" coords="345,67,431,94"/>
+<area shape="rect" id="node3" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,15,445,42"/>
+<area shape="rect" id="node4" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,17,283,43"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,42,115,69"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="load_player_settings" name="load_player_settings">
+<area shape="rect" id="node1" title="loads Player Settings : loads it&#39;s xpm and sets it&#39;s variavles" alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$_player_8c.html#a6873c31d8904de64e6f4f7cf3dc83982" title=": loads Avatars&#39;s xpm, sets avatars initial state" alt="" coords="196,5,283,32"/>
+<area shape="rect" id="node3" href="$button_8c.html#acd37bde8c9ce5676f86ace96e44dfc24" title=" " alt="" coords="195,56,284,83"/>
+</map>

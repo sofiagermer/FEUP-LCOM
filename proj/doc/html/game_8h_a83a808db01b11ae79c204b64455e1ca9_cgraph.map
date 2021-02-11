@@ -1,0 +1,30 @@
+<map id="Game_Over_interrupt_handler" name="Game_Over_interrupt_handler">
+<area shape="rect" id="node1" title="Game Over&#39;s Interrupt Handler for any of the devices." alt="" coords="5,302,149,343"/>
+<area shape="rect" id="node2" href="$score_8c.html#a9ba8bd371d50c80f53bfedb2378bf607" title=": E" alt="" coords="215,56,327,83"/>
+<area shape="rect" id="node11" href="$button_8c.html#a8cffe5189a594e49e7510d739e186fa0" title=" " alt="" coords="225,107,317,133"/>
+<area shape="rect" id="node12" href="$cursor_8c.html#a4acb89b058c3a72154e1b2650107a77f" title=" " alt="" coords="225,157,317,184"/>
+<area shape="rect" id="node13" href="$game_8c.html#a226de9ba64a3254dfeb760f22e3bdc6f" title="Draw a number at a given position through a given font." alt="" coords="221,208,320,235"/>
+<area shape="rect" id="node16" href="$_player_8c.html#a6d85d59dfb31c561dfb59f927bba63bc" title="loads Player Settings : loads it&#39;s xpm and sets it&#39;s variavles" alt="" coords="200,309,341,336"/>
+<area shape="rect" id="node19" href="$mouse_8c.html#ae86dff03501588f02ab812d508c14e0e" title=" " alt="" coords="209,360,332,387"/>
+<area shape="rect" id="node20" href="$mouse_8c.html#a11d1baadd04f210cf2a585f1202ee625" title=" " alt="" coords="197,411,344,437"/>
+<area shape="rect" id="node21" href="$cursor_8c.html#a7e4fd47884d1a0d231b63f6a258d76b3" title=" " alt="" coords="223,461,318,488"/>
+<area shape="rect" id="node22" href="$serial__port_8c.html#a9353fabdd05ea291e02243dace57ae1c" title=" " alt="" coords="242,512,299,539"/>
+<area shape="rect" id="node27" href="$button_8c.html#a512e8a3f16c539773240cfce77b1ad41" title=" " alt="" coords="215,563,326,589"/>
+<area shape="rect" id="node28" href="$vd__card_8c.html#a960b8a6eaa33056b1caf46d2f3be5a78" title=" " alt="" coords="415,259,515,285"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a1f2c4f317d879fe00426ee4317bc625f" title=" " alt="" coords="429,31,501,57"/>
+<area shape="rect" id="node8" href="$rtc_8c.html#a6b4ef7ca8ae56936acc3002f0fb40d77" title=" " alt="" coords="429,81,501,108"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a9fcf4d1d144b7adacd25f3453d27c2b1" title=" " alt="" coords="599,5,677,32"/>
+<area shape="rect" id="node7" href="$rtc_8c.html#a0cb10f2df22f173ff13f51fb40eb7f13" title=" " alt="" coords="591,56,685,83"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#abebbbc3f690198409b3002caa2fb9fb7" title=" " alt="" coords="742,5,829,32"/>
+<area shape="rect" id="node6" href="$rtc_8c.html#a2a4ff1e5e524072f27f629aa09b72f04" title=" " alt="" coords="741,56,830,83"/>
+<area shape="rect" id="node9" href="$rtc_8c.html#a52397937a1283936d3e39e7fd409d3a7" title=" " alt="" coords="599,107,677,133"/>
+<area shape="rect" id="node10" href="$rtc_8c.html#a11c2f0ab41044986dcc5e6cccaadcef4" title=" " alt="" coords="737,107,833,133"/>
+<area shape="rect" id="node14" href="$vd__card_8c.html#a6bdae1bbe2550249fad35c5fb5c6a850" title=" " alt="" coords="392,208,539,235"/>
+<area shape="rect" id="node15" href="$vd__card_8c.html#a741cefba417e3727a00b5aeaaf7bbb9c" title=" " alt="" coords="587,233,689,260"/>
+<area shape="rect" id="node17" href="$_player_8c.html#a6873c31d8904de64e6f4f7cf3dc83982" title=": loads Avatars&#39;s xpm, sets avatars initial state" alt="" coords="422,309,509,336"/>
+<area shape="rect" id="node18" href="$button_8c.html#acd37bde8c9ce5676f86ace96e44dfc24" title=" " alt="" coords="421,360,510,387"/>
+<area shape="rect" id="node23" href="$serial__port_8c.html#a639d9be97158ad56bf0253e9ff05a9af" title=" " alt="" coords="413,537,517,564"/>
+<area shape="rect" id="node25" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="740,537,831,564"/>
+<area shape="rect" id="node24" href="$serial__port_8c.html#a4ecbfe103b6cf9488da8a4ba92918fe1" title=" " alt="" coords="588,588,688,615"/>
+<area shape="rect" id="node26" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="881,537,977,564"/>
+</map>

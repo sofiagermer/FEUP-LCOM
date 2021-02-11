@@ -1,0 +1,28 @@
+<map id="Player_Settings_interrupt_handler" name="Player_Settings_interrupt_handler">
+<area shape="rect" id="node1" title="Player_Setting&#39;s Interrupt Handler for any of the devices." alt="" coords="5,429,173,470"/>
+<area shape="rect" id="node2" href="$_player_8c.html#ab7bf22d031fad1e7ccccf4746e9ff7bd" title=" " alt="" coords="263,5,361,32"/>
+<area shape="rect" id="node3" href="$vd__card_8c.html#a960b8a6eaa33056b1caf46d2f3be5a78" title=" " alt="" coords="474,132,574,159"/>
+<area shape="rect" id="node5" href="$button_8c.html#a46210c7c7feecb97174d98bcd78cd7e4" title=" " alt="" coords="263,107,361,133"/>
+<area shape="rect" id="node6" href="$cursor_8c.html#a4acb89b058c3a72154e1b2650107a77f" title=" " alt="" coords="266,157,358,184"/>
+<area shape="rect" id="node7" href="$_player_8c.html#a6f315404e5a2795f04475b785d581c58" title=": draws Player Settings name lennght waring" alt="" coords="221,208,403,235"/>
+<area shape="rect" id="node8" href="$_player_8c.html#a68726908922743aa8421780dc8e98c99" title=": draws Player Nmae" alt="" coords="247,259,377,285"/>
+<area shape="rect" id="node10" href="$_player_8c.html#a18889494e66c36b5b6d99ae828a6e1f6" title=": get the hammer sellected by the player" alt="" coords="265,309,359,336"/>
+<area shape="rect" id="node11" href="$kbd__manager_8c.html#a43c2036f78fe838073d5729b612e32b6" title=" " alt="" coords="262,360,362,387"/>
+<area shape="rect" id="node12" href="$mouse_8c.html#ae86dff03501588f02ab812d508c14e0e" title=" " alt="" coords="251,411,373,437"/>
+<area shape="rect" id="node13" href="$button_8c.html#a1c6d69ddd47fcc0174df55ac965a253a" title=" " alt="" coords="267,461,357,488"/>
+<area shape="rect" id="node14" href="$mouse_8c.html#a11d1baadd04f210cf2a585f1202ee625" title=" " alt="" coords="239,512,385,539"/>
+<area shape="rect" id="node15" href="$cursor_8c.html#a7e4fd47884d1a0d231b63f6a258d76b3" title=" " alt="" coords="265,563,359,589"/>
+<area shape="rect" id="node16" href="$_player_8c.html#a6edfb1a681fe3e25c530f883baf22e9a" title=": moves one avatar to left, defining it as SELECTED and the other ones as NOT_SELECTED" alt="" coords="253,613,371,640"/>
+<area shape="rect" id="node17" href="$_player_8c.html#a71c760196f9a13ae2da6049fcc873b00" title=": moves one avatar to right, defining it as SELECTED and the other ones as NOT_SELECTED" alt="" coords="249,664,375,691"/>
+<area shape="rect" id="node18" href="$serial__port_8c.html#a9353fabdd05ea291e02243dace57ae1c" title=" " alt="" coords="283,715,341,741"/>
+<area shape="rect" id="node23" href="$serial__port_8c.html#ac18e082e29486b1c2286a369c06d6b41" title=" " alt="" coords="259,765,365,792"/>
+<area shape="rect" id="node25" href="$button_8c.html#a512e8a3f16c539773240cfce77b1ad41" title=" " alt="" coords="257,816,367,843"/>
+<area shape="rect" id="node26" href="$_player_8c.html#aa609c4cfbe283a80d63e4e8705f3df6d" title=":" alt="" coords="241,867,383,893"/>
+<area shape="rect" id="node4" href="$vd__card_8c.html#a741cefba417e3727a00b5aeaaf7bbb9c" title=" " alt="" coords="645,157,748,184"/>
+<area shape="rect" id="node9" href="$vd__card_8c.html#a6bdae1bbe2550249fad35c5fb5c6a850" title=" " alt="" coords="451,259,597,285"/>
+<area shape="rect" id="node19" href="$serial__port_8c.html#a639d9be97158ad56bf0253e9ff05a9af" title=" " alt="" coords="472,664,576,691"/>
+<area shape="rect" id="node21" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="796,689,887,716"/>
+<area shape="rect" id="node20" href="$serial__port_8c.html#a4ecbfe103b6cf9488da8a4ba92918fe1" title=" " alt="" coords="647,613,747,640"/>
+<area shape="rect" id="node22" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="935,689,1031,716"/>
+<area shape="rect" id="node24" href="$serial__port_8c.html#aa605bbbc2670de237f5d823681a965e4" title=" " alt="" coords="645,765,748,792"/>
+</map>

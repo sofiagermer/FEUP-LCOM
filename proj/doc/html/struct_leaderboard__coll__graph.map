@@ -1,0 +1,7 @@
+<map id="Leaderboard" name="Leaderboard">
+<area shape="rect" id="node1" title=" " alt="" coords="80,184,173,211"/>
+<area shape="rect" id="node2" href="$struct_score___record.html" title=" " alt="" coords="16,95,120,121"/>
+<area shape="rect" id="node3" href="$struct_time.html" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node4" href="$struct_date.html" title=" " alt="" coords="81,5,130,32"/>
+<area shape="rect" id="node5" href="$struct_button.html" title=" " alt="" coords="155,95,215,121"/>
+</map>

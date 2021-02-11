@@ -1,0 +1,12 @@
+<map id="load_button" name="load_button">
+<area shape="rect" id="node1" title=" " alt="" coords="875,81,964,108"/>
+<area shape="rect" id="node2" href="$game_8h.html#a0087de40f5c701bbf7e8a1e5bbb6828d" title="loads Game over: loads all it&#39;s xpm, creates it&#39;s Curson and all it&#39;s Buttons" alt="" coords="699,5,813,32"/>
+<area shape="rect" id="node5" href="$score_8h.html#ae46f5b2e4f8fe0a1e551362dc453285d" title=": loads leaderboard and sets it&#39;s variables" alt="" coords="696,56,816,83"/>
+<area shape="rect" id="node6" href="$menu_8h.html#a24476a309f641e520203b0096b1df885" title="Function that creates a menu: loads the background xpm, the WhackaMole&#39;s logo and all menu&#39;s buttons." alt="" coords="713,107,799,133"/>
+<area shape="rect" id="node7" href="$_player_8h.html#a6d85d59dfb31c561dfb59f927bba63bc" title="loads Player Settings : loads it&#39;s xpm and sets it&#39;s variavles" alt="" coords="685,157,827,184"/>
+<area shape="rect" id="node3" href="$game_8h.html#a5c905e2d449eb8d5f597ff9912701b53" title="loads Game : Loads all Game&#39;s sprites, Creates Mole, Menu, Player_Settings, Player,..." alt="" coords="523,99,608,125"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,127,115,153"/>
+<area shape="rect" id="node8" href="$game_8h.html#a83a808db01b11ae79c204b64455e1ca9" title="Game Over&#39;s Interrupt Handler for any of the devices." alt="" coords="493,150,637,191"/>
+<area shape="rect" id="node9" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,153,445,180"/>
+<area shape="rect" id="node10" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,152,283,179"/>
+</map>

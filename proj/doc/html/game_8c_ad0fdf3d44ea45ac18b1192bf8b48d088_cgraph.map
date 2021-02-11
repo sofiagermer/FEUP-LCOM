@@ -1,0 +1,20 @@
+<map id="Main_Menu_interrupt_handler" name="Main_Menu_interrupt_handler">
+<area shape="rect" id="node1" title="Main Menu&#39;s Interrupt Handler for any of the devices." alt="" coords="5,251,148,293"/>
+<area shape="rect" id="node2" href="$button_8c.html#a46210c7c7feecb97174d98bcd78cd7e4" title=" " alt="" coords="220,5,319,32"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a4acb89b058c3a72154e1b2650107a77f" title=" " alt="" coords="223,56,315,83"/>
+<area shape="rect" id="node4" href="$menu_8c.html#a0b355459b3a4a9f5c3ca6a3990c327c7" title="Function that draws the game&#39;s date." alt="" coords="229,107,310,133"/>
+<area shape="rect" id="node7" href="$menu_8c.html#af5275f652e65ee8f6e76a3c9f5d27ad7" title="Function that draws the game&#39;s logo." alt="" coords="229,208,309,235"/>
+<area shape="rect" id="node8" href="$vd__card_8c.html#a960b8a6eaa33056b1caf46d2f3be5a78" title=" " alt="" coords="414,208,514,235"/>
+<area shape="rect" id="node9" href="$menu_8c.html#a83f90a5e43a721ad85133020e32bcdd5" title="Function that draws the current&#39;s time." alt="" coords="229,157,310,184"/>
+<area shape="rect" id="node10" href="$mouse_8c.html#ae86dff03501588f02ab812d508c14e0e" title=" " alt="" coords="208,309,331,336"/>
+<area shape="rect" id="node11" href="$mouse_8c.html#a11d1baadd04f210cf2a585f1202ee625" title=" " alt="" coords="196,360,343,387"/>
+<area shape="rect" id="node12" href="$cursor_8c.html#a7e4fd47884d1a0d231b63f6a258d76b3" title=" " alt="" coords="222,411,317,437"/>
+<area shape="rect" id="node13" href="$serial__port_8c.html#a9353fabdd05ea291e02243dace57ae1c" title=" " alt="" coords="241,461,298,488"/>
+<area shape="rect" id="node18" href="$button_8c.html#a512e8a3f16c539773240cfce77b1ad41" title=" " alt="" coords="214,512,325,539"/>
+<area shape="rect" id="node5" href="$vd__card_8c.html#a6bdae1bbe2550249fad35c5fb5c6a850" title=" " alt="" coords="391,157,537,184"/>
+<area shape="rect" id="node6" href="$vd__card_8c.html#a741cefba417e3727a00b5aeaaf7bbb9c" title=" " alt="" coords="585,183,688,209"/>
+<area shape="rect" id="node14" href="$serial__port_8c.html#a639d9be97158ad56bf0253e9ff05a9af" title=" " alt="" coords="412,436,516,463"/>
+<area shape="rect" id="node16" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="736,436,827,463"/>
+<area shape="rect" id="node15" href="$serial__port_8c.html#a4ecbfe103b6cf9488da8a4ba92918fe1" title=" " alt="" coords="587,385,687,412"/>
+<area shape="rect" id="node17" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="875,436,971,463"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="game_main_loop" name="game_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1045,125,1071"/>
+<area shape="rect" id="node2" href="$game_8c.html#a6cc9a9a7465f961ea64414891620e7cd" title="General Interrupt Control for any device." alt="" coords="207,355,321,382"/>
+<area shape="rect" id="node20" href="$mouse_8c.html#a95c8345fe9844083637f3b0f89e74f73" title=" " alt="" coords="173,893,355,919"/>
+<area shape="rect" id="node22" href="$mouse_8c.html#a3edf0f23aa673edf710e5d9e30d20f7c" title=" " alt="" coords="403,969,580,995"/>
+<area shape="rect" id="node26" href="$keyboard_8c.html#a5761bd4aad91ac1d68916ad88f583d9f" title=" " alt="" coords="234,741,294,767"/>
+<area shape="rect" id="node30" href="$keyboard_8c.html#aa7a491d4d95eab5ca5326c4000ad67f8" title=" " alt="" coords="201,791,327,818"/>
+<area shape="rect" id="node31" href="$keyboard_8c.html#a5bdf6cfb570c375192b0d87913b65c57" title=" " alt="" coords="193,842,335,869"/>
+<area shape="rect" id="node32" href="$mouse_8c.html#aed4404005e4c565ac36656307386e0ac" title=" " alt="" coords="225,665,303,691"/>
+<area shape="rect" id="node35" href="$mouse_8c.html#aacbf4e827692632e0ebbb9476e0432a9" title=" " alt="" coords="191,943,337,970"/>
+<area shape="rect" id="node36" href="$mouse_8c.html#a685ad2706aca36d9869a30a19b9f446a" title=" " alt="" coords="185,994,343,1021"/>
+<area shape="rect" id="node37" href="$rtc_8c.html#ab4aa45a2195a25a1c74c377654347870" title=" " alt="" coords="211,1095,317,1122"/>
+<area shape="rect" id="node39" href="$rtc_8c.html#abc313237e00236eec84b5263f56e08ab" title=" " alt="" coords="685,10,755,37"/>
+<area shape="rect" id="node40" href="$rtc_8c.html#a6bbe679f115cec90d36d50eb2aac1b89" title=" " alt="" coords="203,1146,325,1173"/>
+<area shape="rect" id="node42" href="$rtc_8c.html#a9d4850bb2a488644672d43287f160622" title=" " alt="" coords="197,1197,331,1223"/>
+<area shape="rect" id="node44" href="$serial__port_8c.html#af21628f0f9d46b62067ae790f7861e84" title=" " alt="" coords="202,1247,326,1274"/>
+<area shape="rect" id="node45" href="$serial__port_8c.html#a30ae83ae28ebc465baa2d2f2ee51a145" title=" " alt="" coords="195,1298,333,1325"/>
+<area shape="rect" id="node47" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title=" " alt="" coords="203,1349,325,1375"/>
+<area shape="rect" id="node48" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title=" " alt="" coords="197,1399,331,1426"/>
+<area shape="rect" id="node49" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title=" " alt="" coords="189,1450,339,1477"/>
+<area shape="rect" id="node50" href="$vd__card_8c.html#ae3b012570edee485a8ad4b6de6a49f35" title=" " alt="" coords="215,1501,313,1527"/>
+<area shape="rect" id="node3" href="$game_8c.html#a919da656b86c7d4790e4717bb250db36" title="Exit&#39;s Interrupt Handler for any of the devices." alt="" coords="417,563,565,590"/>
+<area shape="rect" id="node8" href="$game_8c.html#a83a808db01b11ae79c204b64455e1ca9" title="Game Over&#39;s Interrupt Handler for any of the devices." alt="" coords="419,53,563,95"/>
+<area shape="rect" id="node13" href="$game_8c.html#a2af9534da3b734028726ed17e9ca9a64" title="Instruction&#39;s Interrupt Handler for any of the devices." alt="" coords="420,497,563,539"/>
+<area shape="rect" id="node14" href="$game_8c.html#a2d5b5ceb0e75cc6b1b82b0c8c6253b4d" title="Leaderboard&#39;s Interrupt Handler for any of the devices." alt="" coords="418,119,565,160"/>
+<area shape="rect" id="node15" href="$game_8c.html#ad0fdf3d44ea45ac18b1192bf8b48d088" title="Main Menu&#39;s Interrupt Handler for any of the devices." alt="" coords="420,184,563,225"/>
+<area shape="rect" id="node16" href="$game_8c.html#a83b81c62e20e8612d78e1544833ed165" title="Multi_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="417,249,565,291"/>
+<area shape="rect" id="node17" href="$game_8c.html#a90dae18f33ce6c82a0c99477abb50f87" title="Player_Setting&#39;s Interrupt Handler for any of the devices." alt="" coords="407,315,575,356"/>
+<area shape="rect" id="node18" href="$game_8c.html#ac2cdcc365f4d1f28296731ffbe687c07" title="Single_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="413,380,569,421"/>
+<area shape="rect" id="node19" href="$game_8c.html#af095196a1657dbe751b421053cf40337" title=" " alt="" coords="407,446,576,473"/>
+<area shape="rect" id="node4" href="$score_8c.html#adb18234e7227103f5a908bac22010632" title=": E" alt="" coords="673,563,767,590"/>
+<area shape="rect" id="node5" href="$serial__port_8c.html#a9353fabdd05ea291e02243dace57ae1c" title=" " alt="" coords="691,322,749,349"/>
+<area shape="rect" id="node7" href="$vd__card_8c.html#a960b8a6eaa33056b1caf46d2f3be5a78" title=" " alt="" coords="670,373,770,399"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="860,867,951,894"/>
+<area shape="rect" id="node9" href="$score_8c.html#a9ba8bd371d50c80f53bfedb2378bf607" title=": E" alt="" coords="664,61,776,87"/>
+<area shape="rect" id="node10" href="$rtc_8c.html#a1f2c4f317d879fe00426ee4317bc625f" title=" " alt="" coords="869,61,941,87"/>
+<area shape="rect" id="node11" href="$rtc_8c.html#a6b4ef7ca8ae56936acc3002f0fb40d77" title=" " alt="" coords="869,10,941,37"/>
+<area shape="rect" id="node12" href="$rtc_8c.html#a52397937a1283936d3e39e7fd409d3a7" title=" " alt="" coords="999,541,1077,567"/>
+<area shape="rect" id="node21" href="$mouse_8c.html#a923aa1ef1567a19835712dd649d6a2ee" title=" " alt="" coords="422,867,561,894"/>
+<area shape="rect" id="node23" href="$mouse_8c.html#aa1f2ab22fd146a7517abfa91a1e1d1dc" title=" " alt="" coords="628,969,812,995"/>
+<area shape="rect" id="node24" href="$mouse_8c.html#a1d8857a75015cbe57d2032a60446d937" title=" " alt="" coords="643,1019,797,1046"/>
+<area shape="rect" id="node25" href="$mouse_8c.html#a296cf081f55f6d6e7cd0901dd7884f4f" title=" " alt="" coords="641,918,799,945"/>
+<area shape="rect" id="node27" href="$keyboard_8c.html#a387a4d495a0deca0371450dbecfaa23a" title=" " alt="" coords="416,766,567,793"/>
+<area shape="rect" id="node28" href="$keyboard_8c.html#a51c888063d1f117f3af4a65ae37e075b" title=" " alt="" coords="451,715,532,742"/>
+<area shape="rect" id="node29" href="$keyboard_8c.html#a7bd360dac673cafda0e2ebff80ab1f1f" title=" " alt="" coords="665,817,775,843"/>
+<area shape="rect" id="node33" href="$mouse_8c.html#a5d7adb1a35d60fae27dd887d5bdff8ea" title=" " alt="" coords="428,665,555,691"/>
+<area shape="rect" id="node34" href="$mouse_8c.html#a91cc7a3687d335350477dc7da669a499" title=" " alt="" coords="642,690,798,717"/>
+<area shape="rect" id="node38" href="$rtc_8c.html#a74509feeac5ce275416f0239f4d92776" title=" " alt="" coords="442,1121,541,1147"/>
+<area shape="rect" id="node41" href="$rtc_8c.html#aaa0c60f492d3959943c798c4397128c0" title=" " alt="" coords="441,1171,542,1198"/>
+<area shape="rect" id="node43" href="$rtc_8c.html#a669e93c0f92b0177d87b4798ce11a042" title=" " alt="" coords="439,1222,543,1249"/>
+<area shape="rect" id="node46" href="$serial__port_8c.html#a99ff60733e20ed9c1d0736bab77de058" title=" " alt="" coords="420,1298,563,1325"/>
+</map>

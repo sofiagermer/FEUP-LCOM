@@ -1,0 +1,12 @@
+<map id="draw_cursor" name="draw_cursor">
+<area shape="rect" id="node1" title=" " alt="" coords="709,177,801,203"/>
+<area shape="rect" id="node2" href="$game_8h.html#a83a808db01b11ae79c204b64455e1ca9" title="Game Over&#39;s Interrupt Handler for any of the devices." alt="" coords="505,5,649,47"/>
+<area shape="rect" id="node6" href="$game_8h.html#a259fc2952ac22cfff832e036a0f8f78f" title="Leaderboard&#39;s Interrupt Handler for any of the devices." alt="" coords="504,71,651,112"/>
+<area shape="rect" id="node7" href="$game_8h.html#aa225abc34fc0bda6af3cd3743d99ff14" title="Main Menu&#39;s Interrupt Handler for any of the devices." alt="" coords="506,136,649,177"/>
+<area shape="rect" id="node8" href="$game_8h.html#a83b81c62e20e8612d78e1544833ed165" title="Multi_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="503,201,651,243"/>
+<area shape="rect" id="node9" href="$game_8h.html#a513545e1100bf1e22c03177624a58cc8" title="Player_Setting&#39;s Interrupt Handler for any of the devices." alt="" coords="493,267,661,308"/>
+<area shape="rect" id="node10" href="$game_8h.html#ac2cdcc365f4d1f28296731ffbe687c07" title="Single_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="499,332,655,373"/>
+<area shape="rect" id="node3" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,177,445,203"/>
+<area shape="rect" id="node4" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,177,283,203"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,177,115,203"/>
+</map>

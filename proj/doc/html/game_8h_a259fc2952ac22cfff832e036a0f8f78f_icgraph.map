@@ -1,0 +1,6 @@
+<map id="Leaderboard_interrupt_handler" name="Leaderboard_interrupt_handler">
+<area shape="rect" id="node1" title="Leaderboard&#39;s Interrupt Handler for any of the devices." alt="" coords="493,5,640,47"/>
+<area shape="rect" id="node2" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,13,445,39"/>
+<area shape="rect" id="node3" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,13,283,39"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,13,115,39"/>
+</map>

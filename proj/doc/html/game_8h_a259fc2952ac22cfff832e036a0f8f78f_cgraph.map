@@ -1,0 +1,24 @@
+<map id="Leaderboard_interrupt_handler" name="Leaderboard_interrupt_handler">
+<area shape="rect" id="node1" title="Leaderboard&#39;s Interrupt Handler for any of the devices." alt="" coords="5,277,152,318"/>
+<area shape="rect" id="node2" href="$button_8c.html#a46210c7c7feecb97174d98bcd78cd7e4" title=" " alt="" coords="230,5,329,32"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a4acb89b058c3a72154e1b2650107a77f" title=" " alt="" coords="233,56,325,83"/>
+<area shape="rect" id="node4" href="$score_8c.html#a37574d66cf407cd3121ba1cf4f039b19" title="draws leaderboard&#39;s table" alt="" coords="200,107,359,133"/>
+<area shape="rect" id="node5" href="$vd__card_8c.html#a960b8a6eaa33056b1caf46d2f3be5a78" title=" " alt="" coords="422,157,522,184"/>
+<area shape="rect" id="node7" href="$score_8c.html#a9d29cb501a22694868f47f60f0e22c68" title="draws players&#39;s dates" alt="" coords="214,208,345,235"/>
+<area shape="rect" id="node10" href="$score_8c.html#ae3c2d15b4c30d163c227bd534e0a40f2" title="draws leaderboard&#39;s player names" alt="" coords="211,259,348,285"/>
+<area shape="rect" id="node12" href="$score_8c.html#a112da7f6583d054ea0b7ce49a8e171fb" title="draws players&#39;s scores" alt="" coords="211,309,348,336"/>
+<area shape="rect" id="node14" href="$mouse_8c.html#ae86dff03501588f02ab812d508c14e0e" title=" " alt="" coords="218,360,341,387"/>
+<area shape="rect" id="node15" href="$mouse_8c.html#a11d1baadd04f210cf2a585f1202ee625" title=" " alt="" coords="206,411,353,437"/>
+<area shape="rect" id="node16" href="$cursor_8c.html#a7e4fd47884d1a0d231b63f6a258d76b3" title=" " alt="" coords="232,461,327,488"/>
+<area shape="rect" id="node17" href="$serial__port_8c.html#a9353fabdd05ea291e02243dace57ae1c" title=" " alt="" coords="251,512,308,539"/>
+<area shape="rect" id="node22" href="$button_8c.html#a512e8a3f16c539773240cfce77b1ad41" title=" " alt="" coords="224,563,335,589"/>
+<area shape="rect" id="node6" href="$vd__card_8c.html#a741cefba417e3727a00b5aeaaf7bbb9c" title=" " alt="" coords="780,203,883,229"/>
+<area shape="rect" id="node8" href="$menu_8c.html#a0b355459b3a4a9f5c3ca6a3990c327c7" title="Function that draws the game&#39;s date." alt="" coords="431,208,513,235"/>
+<area shape="rect" id="node9" href="$vd__card_8c.html#a6bdae1bbe2550249fad35c5fb5c6a850" title=" " alt="" coords="585,233,732,260"/>
+<area shape="rect" id="node11" href="$_player_8c.html#a68726908922743aa8421780dc8e98c99" title=": draws Player Nmae" alt="" coords="407,259,537,285"/>
+<area shape="rect" id="node13" href="$score_8c.html#af37f5936bb762a295329e061294dcd9d" title="draws players&#39;s score" alt="" coords="407,309,537,336"/>
+<area shape="rect" id="node18" href="$serial__port_8c.html#a639d9be97158ad56bf0253e9ff05a9af" title=" " alt="" coords="420,487,524,513"/>
+<area shape="rect" id="node20" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="786,487,877,513"/>
+<area shape="rect" id="node19" href="$serial__port_8c.html#a4ecbfe103b6cf9488da8a4ba92918fe1" title=" " alt="" coords="609,436,709,463"/>
+<area shape="rect" id="node21" href="$utils_8c.html#a81621440b3d65680979425e39aa8c789" title=" " alt="" coords="931,487,1027,513"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="draw_player_scores" name="draw_player_scores">
+<area shape="rect" id="node1" title="draws players&#39;s scores" alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$score_8c.html#af37f5936bb762a295329e061294dcd9d" title="draws players&#39;s score" alt="" coords="191,5,321,32"/>
+<area shape="rect" id="node3" href="$vd__card_8c.html#a6bdae1bbe2550249fad35c5fb5c6a850" title=" " alt="" coords="369,5,516,32"/>
+<area shape="rect" id="node4" href="$vd__card_8c.html#a741cefba417e3727a00b5aeaaf7bbb9c" title=" " alt="" coords="564,5,667,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ser_can_send" name="ser_can_send">
+<area shape="rect" id="node1" title=" " alt="" coords="865,107,968,134"/>
+<area shape="rect" id="node2" href="$serial__port_8h.html#ac18e082e29486b1c2286a369c06d6b41" title=" " alt="" coords="711,107,817,134"/>
+<area shape="rect" id="node3" href="$game_8h.html#a83b81c62e20e8612d78e1544833ed165" title="Multi_Player&#39;s Interrupt Handler for any of the devices." alt="" coords="504,5,652,47"/>
+<area shape="rect" id="node7" href="$game_8h.html#a513545e1100bf1e22c03177624a58cc8" title="Player_Setting&#39;s Interrupt Handler for any of the devices." alt="" coords="494,71,662,112"/>
+<area shape="rect" id="node8" href="$serial__port_8h.html#a6723c4d89163dd60b6f4bbc824556f67" title=" " alt="" coords="527,137,629,163"/>
+<area shape="rect" id="node9" href="$game_8h.html#a5e320e123b36750c50ac9bcc0a60bb9e" title=" " alt="" coords="493,187,663,214"/>
+<area shape="rect" id="node4" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,78,445,105"/>
+<area shape="rect" id="node5" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,78,283,105"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,78,115,105"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="load_scores" name="load_scores">
+<area shape="rect" id="node1" title=": E" alt="" coords="464,5,556,32"/>
+<area shape="rect" id="node2" href="$score_8h.html#ae46f5b2e4f8fe0a1e551362dc453285d" title=": loads leaderboard and sets it&#39;s variables" alt="" coords="296,5,416,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a5c905e2d449eb8d5f597ff9912701b53" title="loads Game : Loads all Game&#39;s sprites, Creates Mole, Menu, Player_Settings, Player,..." alt="" coords="163,5,248,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

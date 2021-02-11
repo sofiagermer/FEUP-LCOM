@@ -1,0 +1,5 @@
+<map id="load_game_over" name="load_game_over">
+<area shape="rect" id="node1" title="loads Game over: loads all it&#39;s xpm, creates it&#39;s Curson and all it&#39;s Buttons" alt="" coords="5,31,120,57"/>
+<area shape="rect" id="node2" href="$button_8c.html#acd37bde8c9ce5676f86ace96e44dfc24" title=" " alt="" coords="168,5,257,32"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a78f0eedbada905c03ec505cb87c75f6b" title=" " alt="" coords="168,56,257,83"/>
+</map>

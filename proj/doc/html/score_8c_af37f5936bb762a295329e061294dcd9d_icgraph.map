@@ -1,0 +1,8 @@
+<map id="draw_player_score" name="draw_player_score">
+<area shape="rect" id="node1" title="draws players&#39;s score" alt="" coords="873,13,1004,39"/>
+<area shape="rect" id="node2" href="$score_8h.html#a112da7f6583d054ea0b7ce49a8e171fb" title="draws players&#39;s scores" alt="" coords="688,13,825,39"/>
+<area shape="rect" id="node3" href="$game_8h.html#a259fc2952ac22cfff832e036a0f8f78f" title="Leaderboard&#39;s Interrupt Handler for any of the devices." alt="" coords="493,5,640,47"/>
+<area shape="rect" id="node4" href="$game_8h.html#ac55d27294d4dab023ed1da8177cea4f7" title="General Interrupt Control for any device." alt="" coords="331,13,445,39"/>
+<area shape="rect" id="node5" href="$game_8h.html#a680d818a16ba3602921da4ec6edeb295" title=" " alt="" coords="163,13,283,39"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,13,115,39"/>
+</map>
